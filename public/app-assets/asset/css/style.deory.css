@@ -1,0 +1,42 @@
+header.head.header-inside .back-header-out{
+	height: 171px;
+	background: url("../images/background-inside-manipulasi.jpg") no-repeat scroll center center / 100% 100% rgba(0, 0, 0, 0);
+
+}
+header.head.header-inside .background-header1{
+	background: url("../images/background-inside.jpg") repeat-x scroll 0 0 rgba(0, 0, 0, 0);
+}
+header.head.header-inside .background-left-header{
+	background: none;
+}
+
+.top-content-inside{
+	background: #ff7f00;
+}
+.top-content-inside .container{
+	height: 103px;
+	background: url(../images/background-header.jpg) no-repeat;
+}
+
+/*---------------------- PRODUCT DETAIL --------------------------*/
+.product-detail{
+	margin: 0px 0px 0px 0px;
+	background: #fff;
+	-webkit-border-bottom-right-radius: 5px;
+	-webkit-border-bottom-left-radius: 5px;
+	-moz-border-radius-bottomright: 5px;
+	-moz-border-radius-bottomleft: 5px;
+	border-bottom-right-radius: 5px;
+	border-bottom-left-radius: 5px;
+}
+.image-product-detail{
+	width: 500px;
+	height: 500px;
+	-webkit-box-shadow: 1px 1px 5px 0px rgba(50, 50, 50, 0.75);
+	-moz-box-shadow:    1px 1px 5px 0px rgba(50, 50, 50, 0.75);
+	box-shadow:         1px 1px 5px 0px rgba(50, 50, 50, 0.75);
+	-webkit-border-radius: 15px;
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+	overflow: hidden;
+}
